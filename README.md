@@ -1,17 +1,22 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi!%20🍰&fontSize=90"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=FFE082&height=300&section=header&text=Hi!%20🍰&fontSize=90"/>
 </div>
 
 <br>
 
 <p>
-<div>
-<h1 align="center"> 🕺 Bea hye jin 🕺 </h1>
+<div align="center">
+<h1> 🕺 Bea hye jin 🕺 </h1>
 <br>
 <br>
+  ✨
+  <br>
+ Practice && Iterate
+ 
 </div>
 
-<div align="center">
+<br>
+<div align="center" >
 
 <h3 align="center">📚 My Github Stats 📚</h3>
 
