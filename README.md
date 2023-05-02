@@ -15,7 +15,7 @@
  
  <br>
  <h3>Study Notion Link</h3>
- <a href="https://melon-zenith-f41.notion.site/3bdf971ab0e8417fbe1ad45c8ac47915?v=bc7d5fc0985f4b7aac441d84c1140231">
+ <a href="https://www.notion.so/3bdf971ab0e8417fbe1ad45c8ac47915?v=bc7d5fc0985f4b7aac441d84c1140231&pvs=4">
     <img src="https://img.shields.io/badge/Notion-000?style=flat&logo=Notion&logoColor=white"/>
  </a>
  
